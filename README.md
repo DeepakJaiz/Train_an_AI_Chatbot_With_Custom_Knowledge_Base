@@ -14,6 +14,7 @@ Install VS Code to run the code<br/>
 ### Modules required
 `pip install llama-index`<br/>
 `pip install langchain`<br/>
+`pip install pypdf`<br/>
 `pip install gradio`<br/>
 
 ### How to run
